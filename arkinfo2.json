@@ -28,7 +28,7 @@
                     "url": "https://discord.gg/C5n7pNjPyc"
                 }
             },
-                        {
+            {
                 "link2": {
                     "text": "Website",
                     "url": "https://spirogames.net"
@@ -38,6 +38,7 @@
                 "link3": {
                     "text": "Who's Online",
                     "url": "https://spirogames.premiumark.net/page/79566-main"
+                }
             },
             {
                 "link4": {
@@ -48,3 +49,4 @@
         ]
     }
 }
+
