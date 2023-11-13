@@ -4,7 +4,7 @@
             "OpenButton": 0,
             "HideIcon": true,
             "HideIconAfter": 60,
-            "IconURL": "",
+            "IconURL": "https://cdn.discordapp.com/attachments/1167319867121225831/1172915938656530483/Spirogames_bot.png?ex=65620e17&is=654f9917&hm=baf8656bcc7397f690d3156d32725613929db469fef0e5e0a4cc309b0671c369&",
             "DisableIconText": true,
             "OpenOnStart": true,
             "OpenOnStartOnlyNewPlayers": true,
@@ -16,8 +16,7 @@
                     "layout": 1,
                     "buttontext": "Welcome",
                     "title1": "Welcome to SpiroGames ARK PVE",
-                    "text1": "Where adult gamers come together and have fun!\n\nBuild, tame, discover and enjoy.\n\nJoin our Discord for Rules, Updates and further information.\n\nServer settings:\nPlayer XP x3\nHarvest x3\nTame x3\n\nLinks below provides you good to know info.",
-                    "imageurl": "https://cdn.discordapp.com/attachments/1167319867121225831/1173639399494406144/Spirogames_logga_text.png?ex=6564afde&is=65523ade&hm=004d66383e36f11ffa9637382d5b3698cf43b17f05f25564bd4cc55bee801b0b&"
+                    "text1": "Where adult gamers come together and have fun!\n\nBuild, tame, discover and enjoy.\n\nJoin our Discord for Rules, Updates and further information.\n\nServer settings:\nPlayer XP x3\nHarvest x3\nTame x3\n\nLinks below provide you with good to know info."
                 }
             }
         ],
@@ -45,8 +44,13 @@
                     "text": "Breeding Info",
                     "url": "https://usebeacon.app/tools/breeding?msm=6.0&ipm=0.289354"
                 }
+            },
+            {
+                "link5": {
+                    "text": "DodoDex",
+                    "url": "https://www.dododex.com/"
+                }
             }
         ]
     }
 }
-
