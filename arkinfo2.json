@@ -15,9 +15,9 @@
                 "tab1": {
                     "layout": 1,
                     "buttontext": "Welcome",
-                    "title1": "Welcome to the DuoPVP Cluster",
-                    "text1": "This Cluster is ment to be a fun Place for Solo- and Duo-Tribe Players.\n\nIf you are looking for a Server to play where you can keep your RealLife stable and go to work without beeing worried about getting raided,\nthen this Server is exactly for you! Consider joining the Discord for Rules, Updates and further Information.\nProtect yourself from getting banned, because you didnt know something.\n\nStructure Decay Times\nThatch 1 Day Offline\nWood 2 Days Offline\nStone 3 Days Offline\nMetal 4 Days Offline\nTek 5 Days Offline",
-                    "imageurl": "https://i.imgur.com/Cfcel2D.jpg"
+                    "title1": "Welcome to SpiroGames ARK PVE",
+                    "text1": "Where adult gamers come together and have fun!\n\nBuild, tame, discover and enjoy.\n\nJoin our Discord for Rules, Updates and further information.\n\nServer settings:\nPlayer XP x3\nHarvest x3\nTame x3\n\nLinks below provides you good to know info.",
+                    "imageurl": "https://cdn.discordapp.com/attachments/1167319867121225831/1173639399494406144/Spirogames_logga_text.png?ex=6564afde&is=65523ade&hm=004d66383e36f11ffa9637382d5b3698cf43b17f05f25564bd4cc55bee801b0b&"
                 }
             }
         ],
@@ -25,19 +25,24 @@
             {
                 "link1": {
                     "text": "Discord",
-                    "url": "https://discord.gg/rKedu7Em86"
+                    "url": "https://discord.gg/C5n7pNjPyc"
                 }
             },
                         {
                 "link2": {
-                    "text": "Rules",
-                    "url": "https://raw.githubusercontent.com/revoover/Server-Rules/main/Rules"
+                    "text": "Website",
+                    "url": "https://spirogames.net"
                 }
             },
             {
                 "link3": {
-                    "text": "Official CoC",
-                    "url": "https://survivetheark.com/index.php?/code-of-conduct/"
+                    "text": "Who's Online",
+                    "url": "https://spirogames.premiumark.net/page/79566-main"
+                },
+            {
+                "link4": {
+                    "text": "Breeding Info",
+                    "url": "https://usebeacon.app/tools/breeding?msm=6.0&ipm=0.289354"
                 }
             }
         ]
