@@ -47,6 +47,12 @@
             },
             {
                 "link5": {
+                    "text": "RewardShop",
+                    "url": "https://spirogames.premiumark.net/shop"
+                }
+            },
+            {
+                "link6": {
                     "text": "DodoDex",
                     "url": "https://www.dododex.com/"
                 }
